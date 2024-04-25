@@ -82,7 +82,7 @@ body{
 
 }
 
-@media (min-width:768px) {
+@media (min-width:760px) {
         .navegacion{
             flex-direction: row;
             justify-content: space-between;
@@ -136,7 +136,7 @@ body{
     text-align: center;
 }
 
-@media (min-width:768px) {
+@media (min-width:760px) {
         .boton{
             width: auto;
         }
@@ -201,7 +201,7 @@ body{
 
 }
 
-@media (max-width:768px) {
+@media (max-width:760px) {
    .enviar{
        width: 100%;
    }
@@ -258,7 +258,7 @@ body{
 
 
 
-@media (min-width:768px) {
+@media (min-width:760px) {
     .contcampos{
         display: grid;
         grid-template-columns: 50% 50%;
@@ -297,7 +297,7 @@ footer{
 }
 
 
-@media (min-width:768px) {
+@media (min-width:760px) {
     .pies{
         display: flex;
         align-items: center;
@@ -372,7 +372,7 @@ footer{
 }
 
 
-@media (min-width:768px) {
+@media (min-width:760px) {
     .gamas{
         display: flex;
         align-items: center;
